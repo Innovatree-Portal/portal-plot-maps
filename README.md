@@ -44,7 +44,7 @@ Plot2_azimuth_map.png
 Plot2_profile.png
 ```
 
-Do not add download suffixes such as `(1)` to repository filenames. Capitalization must remain consistent because URLs are case-sensitive.
+Capitalization must remain consistent because URLs are case-sensitive.
 
 ## Public image URLs
 
